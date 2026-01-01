@@ -12,7 +12,7 @@ import {
 } from '../styles/HeroSection.styles';
 
 const HeroSection: React.FC = () => {
-  const appSubdomain = process.env.REACT_APP_APP_SUBDOMAIN || 'app.azzureretaildiscounts.com';
+  const appSubdomain = process.env.REACT_APP_APP_SUBDOMAIN || 'app.azzurehealthperks.com';
 
   const handleLaunchApp = () => {
     // Temporarily disabled - demo site under construction

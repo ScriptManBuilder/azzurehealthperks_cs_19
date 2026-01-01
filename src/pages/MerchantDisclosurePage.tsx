@@ -99,10 +99,10 @@ const MerchantDisclosurePage: React.FC = () => {
             </LegalParagraph>
             <LegalList>
               <LegalListItem>
-                <strong>Primary Descriptor:</strong> "AZZURE" or "DEALVIX*[Service]"
+                <strong>Primary Descriptor:</strong> "AZZURE HEALTH" or "WELLVIX*[Health Service]"
               </LegalListItem>
               <LegalListItem>
-                <strong>Alternative Descriptors:</strong> May include "AZZURE RETAIL" or retail discount service names for specific services
+                <strong>Alternative Descriptors:</strong> May include "AZZURE WELLNESS" or healthcare provider names for specific services
               </LegalListItem>
               <LegalListItem>
                 <strong>Phone Number:</strong> {process.env.REACT_APP_PHONE_DISPLAY} will appear on your statement for customer service inquiries
